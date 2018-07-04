@@ -1,0 +1,21 @@
+{
+  "name": "dominicmoran-ie",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "copyfiles index.html \"src/**\" dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morandj/dmie.git"
+  },
+  "author": "Dominic Moran",
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morandj/dmcom/issues"
+  },
+  "homepage": "https://github.com/morandj/dmie#readme"
+}
