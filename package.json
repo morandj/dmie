@@ -4,7 +4,7 @@
   "description": "Personal Website",
   "main": "index.html",
   "scripts": {
-    "build": "copyfiles index.html \"src/**\" dist",
+    "build": "copyfiles \"src/**\" dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
